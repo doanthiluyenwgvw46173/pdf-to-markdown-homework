@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 281 >>
+stream
+BT
+/F1 16 Tf
+72 720 Td
+(PDF to Markdown Sample) Tj
+0 -28 Td
+(This PDF is used to test a homework script.) Tj
+0 -28 Td
+(Step 1: Read text from PDF pages.) Tj
+0 -28 Td
+(Step 2: Write a Markdown draft with page headings.) Tj
+0 -28 Td
+(Step 3: Review important details manually.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 230 >>
+stream
+BT
+/F1 16 Tf
+72 720 Td
+(Page Two) Tj
+0 -28 Td
+(The script keeps page numbers in Markdown.) Tj
+0 -28 Td
+(This is useful for course notes and document review.) Tj
+0 -28 Td
+(Generated for Siming Mountain Night School homework.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000579 00000 n 
+0000000705 00000 n 
+0000000986 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1056
+%%EOF
